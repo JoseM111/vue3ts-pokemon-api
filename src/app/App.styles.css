@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/* App.styles.scss */
+/*――――――― (|  SCSS-VARIABLES  |) ―――――――*/
+.routerLink {
+  @apply flex justify-center text-4xl text-yellow-700;
+}
+
+/*# sourceMappingURL=App.styles.css.map */
